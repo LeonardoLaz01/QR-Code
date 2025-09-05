@@ -1,40 +1,34 @@
-# 🌐 Página QR-Code
+# 🌐 QR-Code
 
-Uma página HTML simples criada para praticar **HTML5 e CSS3**. Desafio do
-FrontendMentor.
 
+This is a solution to the [Frontend Mentor](https://www.frontendmentor.io) challenge.  
+The goal of this project was to practice **HTML and CSS** by building a responsive page. 
 
 ---
 
-## 🚀 Demonstração
+## 🛠 Technology used
+- HTML5  
+- CSS3  
 
-🔗 [Veja a página online](https://leonardolaz01.github.io/QR-Code/)  
+---
+
+## 🚀 Demo
+
+🔗 [Check the online page](https://leonardolaz01.github.io/QR-Code/)  
 
 ![screenshot](./screenshot.png)
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🛠 Technology used
 - HTML5  
-- CSS3
+- CSS3  
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Project Estructure
 📦 QR-Code
 ┣ 📜 index.html
 ┣ 📜 style.css
 ┣ 📜Images
-┗ 📜 README.md
-
----
-
-## ✅ Funcionalidades
-- Estrutura básica de um site com HTML semântico.  
-- Layout responsivo simples.  
-- Estilização com CSS.  
-
----
-
-## 📄 Licença
-Este projeto está sob a licença MIT.
+┗ 📜 README.md 
